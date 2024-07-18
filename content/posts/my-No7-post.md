@@ -12,8 +12,6 @@ Visit the [Hugo](https://gohugo.io) website!
 
 Cut out summary from your post content here.
 
-<!--more-->
-
 The remaining content of your post.
 
 科技爱好者周刊
