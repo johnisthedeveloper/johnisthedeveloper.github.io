@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html lang="en-us"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Categories | My New Hugo Site</title>
@@ -12,10 +16,10 @@
 <meta name="description" content="" />
 
 
-<link rel="canonical" href="http://localhost:1313/categories/" />
+<link rel="canonical" href="https://example.org/categories/" />
 
 
-<meta property="og:url" content="http://localhost:1313/categories/">
+<meta property="og:url" content="https://example.org/categories/">
   <meta property="og:site_name" content="My New Hugo Site">
   <meta property="og:title" content="Categories">
   <meta property="og:locale" content="en_us">
@@ -77,13 +81,6 @@
 
 
 
-<li>
-  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
-    <ion-icon name="archive"></ion-icon>
-    Archives
-  </a>
-</li>
-
 
 
 
@@ -98,10 +95,6 @@
 
       
 
-      
-      <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
-        <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
-      </a>
       
 
       
@@ -132,440 +125,6 @@
   <div class="divider divider-vertical md:divider-horizontal"></div>
   <div class="flex-1 space-y-4">
     
-    
-    <a class="card image-full card-compact" href="/posts/my-no8-post/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default2_hu3d03a01dcc18bc5be0e67db3d8d209a6_92733_640x443_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default2.jpg" alt="/images/default2.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">No8 博客</h2>
-
-    <p class="date">
-    Thursday, Jul 18, 2024
-    </p>
-
-    Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-Cut out summary from your post content here.
-The remaining content of your post.
-科技爱好者周刊 记录每周值得分享的科技内容，周五发布。
-欢迎投稿，推荐或自荐文章/软件/资源，请提交 issue 。
-P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
-如何搜索 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
-1、使用 GitHub 自带的网页搜索。
-2、使用 Sourcegraph.com 进行搜索。
-3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/my-no7-post/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default1_hu3d03a01dcc18bc5be0e67db3d8d209a6_69563_640x512_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default1.jpg" alt="/images/default1.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">No7 博客</h2>
-
-    <p class="date">
-    Thursday, Jul 18, 2024
-    </p>
-
-    Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-Cut out summary from your post content here.
-The remaining content of your post.
-科技爱好者周刊 记录每周值得分享的科技内容，周五发布。
-欢迎投稿，推荐或自荐文章/软件/资源，请提交 issue 。
-P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
-如何搜索 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
-1、使用 GitHub 自带的网页搜索。
-2、使用 Sourcegraph.com 进行搜索。
-3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/my-second-post/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default4_hu3d03a01dcc18bc5be0e67db3d8d209a6_32836_640x426_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default4.jpg" alt="/images/default4.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">My Second Post</h2>
-
-    <p class="date">
-    Thursday, Jul 18, 2024
-    </p>
-
-    Hello There 👋 我是　Jarson Cai 一个写代码的，什么都搞。热衷开源项目。🤔 喜欢研究一些新鲜的事物，喜欢音乐🎶，运动.📖 目前在～～～(某双非大学读研究生——电子信息专业（计算机技术）🤪) 目前正在学习c++后台开发方向。 目前正在学习c++后台开发方向。
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/my-first-post-copy/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default3_hu3d03a01dcc18bc5be0e67db3d8d209a6_69593_640x421_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default3.jpg" alt="/images/default3.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">My First Post</h2>
-
-    <p class="date">
-    Thursday, Jul 18, 2024
-    </p>
-
-    Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/my-no9-post/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default1_hu3d03a01dcc18bc5be0e67db3d8d209a6_69563_640x512_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default1.jpg" alt="/images/default1.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">No9 - 昨天的博客</h2>
-
-    <p class="date">
-    Thursday, Jul 18, 2024
-    </p>
-
-    Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/my-first-post/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default1_hu3d03a01dcc18bc5be0e67db3d8d209a6_69563_640x512_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default1.jpg" alt="/images/default1.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">昨天的博客</h2>
-
-    <p class="date">
-    Tuesday, Jul 16, 2024
-    </p>
-
-    Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/my-third-post/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default2_hu3d03a01dcc18bc5be0e67db3d8d209a6_92733_640x443_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default2.jpg" alt="/images/default2.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">时间第二最早的博客</h2>
-
-    <p class="date">
-    Monday, Jul 15, 2024
-    </p>
-
-    个人介绍 个人网站：https://www.techxiaofei.com/
-目前定居新加坡，科技互联网领域自媒体博主，在自媒体平台上分享最新的科技互联网相关软件、产品、使用教程。欢迎你的关注和支持。
-粉丝群 欢迎加入【科技小飞哥】的 电报粉丝群，一起探讨分享科技互联网技术。
-海外投资交流群
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/my-third-post-copy/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default2_hu3d03a01dcc18bc5be0e67db3d8d209a6_92733_640x443_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default2.jpg" alt="/images/default2.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">时间最早的博客</h2>
-
-    <p class="date">
-    Sunday, Jul 14, 2024
-    </p>
-
-    个人介绍 个人网站：https://www.techxiaofei.com/
-目前定居新加坡，科技互联网领域自媒体博主，在自媒体平台上分享最新的科技互联网相关软件、产品、使用教程。欢迎你的关注和支持。
-粉丝群 欢迎加入【科技小飞哥】的 电报粉丝群，一起探讨分享科技互联网技术。
-海外投资交流群
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
-    
-    <a class="card image-full card-compact" href="/posts/01-/">
-  <figure class="h-[200px]">
-  
-    
-    
-    <picture class="w-full">
-      <source srcset="/images/default4_hu3d03a01dcc18bc5be0e67db3d8d209a6_32836_640x426_resize_q75_h2_box.webp" type="image/webp" />
-      <img class="w-full" src="/images/default4.jpg" alt="/images/default4.jpg" />
-    </picture>
-    
-  
-  </figure>
-
-  <div class="card-body">
-    <h2 class="card-title">这个系统很不错</h2>
-
-    <p class="date">
-    Tuesday, Jul 9, 2024
-    </p>
-
-    Hello There 👋 我是　Jarson Cai 一个写代码的，什么都搞。热衷开源项目。🤔 喜欢研究一些新鲜的事物，喜欢音乐🎶，运动.📖 目前在～～～(某双非大学读研究生——电子信息专业（计算机技术）🤪) 目前正在学习c++后台开发方向。 目前正在学习c++后台开发方向。
-
-    <div class="card-actions justify-between items-center mt-4">
-      <div class="flex items-center">
-  
-  <span>@</span>
-  
-
-  <span>
-  
-    
-  
-  </span>
-</div>
-
-
-      <div class="inline-flex items-center">
-        <ion-icon name="time" class="mr-1"></ion-icon>
-        <span>1 minute read</span>
-      </div>
-    </div>
-  </div>
-</a>
-
     
 
     <div class="flex justify-center pt-8">
@@ -676,10 +235,22 @@ Visit the Hugo website!
     })(document, 'script', 'twitter-wjs')
   }
 </script>
+<script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+<script src="/js/grid.js"></script>
+<script src="/js/main.js"></script>
 
-<script src="/js/lunr.min.js"></script>
-<script src="/js/search.js"></script>
+    
 
-</footer>
-</body>
+
+
+
+
+    
+
+    
+
+    <script type="module" src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
+  </body>
 </html>

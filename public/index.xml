@@ -2,88 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jul 2024 05:29:58 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My No10 Post</title>
-      <link>http://localhost:1313/posts/my-no10-post/</link>
-      <pubDate>Fri, 19 Jul 2024 05:29:58 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-no10-post/</guid>
-      <description>Cut out summary from your post content here.&#xA;“屎上雕花”一词，最早是在电脑程序员之间口耳相传，形容面对屎山一样的代码，还要不停进行迭代式缝缝补补，当初颇有些自嘲的意味。&#xA;然而，这个词一经触电网络，便迅速蹿红流行，其内涵和外延也得到扩展和延伸。它通常用于那些外表光鲜亮丽，但实际上品质低劣或者毫无价值的事物。于是，习惯粉饰太平、热衷表面文章、迷恋形式主义、擅长表演摆拍的大陆官场，便成为首选靶标，因为在“屎上雕花”的江湖里，官员大都是弄潮高手。而发生在2023年的那场甘肃积石山地震，轰隆隆震出了“屎上雕花”的极品。&#xA;天不藏奸，“屎上雕花”在地震中原形毕露 有一部电影叫《隐入烟尘》，故事反映的是几十年前，荒芜贫瘠的农村生活。当时引起热议的，是电影里破败不堪的农村镜头，究竟是在哪里拍摄的？在现实中还存不存在？&#xA;烟尘随风散去，答案水落石出：这次甘肃积石山地震，震出了现实版的隐入烟尘！大片土坯房，砖瓦房成了重灾区。一张张图片经网络发酵迅速传遍全国。看到这场景全国人民都傻眼了，简直不敢相信自己的眼睛，这是真的吗？&#xA;最让人气愤的，是那一面面毗邻道路的墙体，原来看上去光鲜靓丽，而开裂倒塌之后，里面全是一塌糊涂！我的天哪，所谓“建设美丽乡村”，其实不是建出来的，而是画出来的、刷出来的、贴出来的、喷出来的——一句话：就是“屎上雕花”糊弄出来的呀！&#xA;“屎上雕花”，美丽无比，臭不可闻。习近平亲自督阵，胡春华挂帅统兵，各级官员忙活抓狂，党媒喉舌极力吹嘘，口号喊的山响，成绩吹的天大的“扶贫攻坚”，天文数字的财政投入，但又有多少钱用在了刀刃上！人们看到的最多的就是道路两边刷白墙，村子里面却是隐入烟尘！大量的工作做了表面文章。乡村振兴，成了报表振兴，总结振兴，宣传振兴。难怪有网友对此评论道：“白墙一刷，小康到家。”</description>
-    </item>
-    <item>
-      <title>No7 博客</title>
-      <link>http://localhost:1313/posts/2024-07-18-no7-post/</link>
-      <pubDate>Thu, 18 Jul 2024 18:48:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-18-no7-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;Cut out summary from your post content here.&#xA;The remaining content of your post.&#xA;科技爱好者周刊 记录每周值得分享的科技内容，周五发布。&#xA;欢迎投稿，推荐或自荐文章/软件/资源，请提交 issue 。&#xA;P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。&#xA;如何搜索 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。&#xA;1、使用 GitHub 自带的网页搜索。&#xA;2、使用 Sourcegraph.com 进行搜索。&#xA;3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Thu, 18 Jul 2024 18:20:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>Hello There 👋 我是　Jarson Cai 一个写代码的，什么都搞。热衷开源项目。🤔 喜欢研究一些新鲜的事物，喜欢音乐🎶，运动.📖 目前在～～～(某双非大学读研究生——电子信息专业（计算机技术）🤪) 目前正在学习c++后台开发方向。 目前正在学习c++后台开发方向。</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post-copy/</link>
-      <pubDate>Thu, 18 Jul 2024 18:15:19 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post-copy/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>屎上雕花</title>
-      <link>http://localhost:1313/2024-07-19-no10-putlipstickonthepig/</link>
-      <pubDate>Thu, 18 Jul 2024 05:23:43 -0400</pubDate>
-      <guid>http://localhost:1313/2024-07-19-no10-putlipstickonthepig/</guid>
-      <description>“屎上雕花”一词，最早是在电脑程序员之间口耳相传，形容面对屎山一样的代码，还要不停进行迭代式缝缝补补，当初颇有些自嘲的意味。&#xA;然而，这个词一经触电网络，便迅速蹿红流行，其内涵和外延也得到扩展和延伸。它通常用于那些外表光鲜亮丽，但实际上品质低劣或者毫无价值的事物。于是，习惯粉饰太平、热衷表面文章、迷恋形式主义、擅长表演摆拍的大陆官场，便成为首选靶标，因为在“屎上雕花”的江湖里，官员大都是弄潮高手。而发生在2023年的那场甘肃积石山地震，轰隆隆震出了“屎上雕花”的极品。&#xA;天不藏奸，“屎上雕花”在地震中原形毕露 有一部电影叫《隐入烟尘》，故事反映的是几十年前，荒芜贫瘠的农村生活。当时引起热议的，是电影里破败不堪的农村镜头，究竟是在哪里拍摄的？在现实中还存不存在？&#xA;烟尘随风散去，答案水落石出：这次甘肃积石山地震，震出了现实版的隐入烟尘！大片土坯房，砖瓦房成了重灾区。一张张图片经网络发酵迅速传遍全国。看到这场景全国人民都傻眼了，简直不敢相信自己的眼睛，这是真的吗？&#xA;最让人气愤的，是那一面面毗邻道路的墙体，原来看上去光鲜靓丽，而开裂倒塌之后，里面全是一塌糊涂！我的天哪，所谓“建设美丽乡村”，其实不是建出来的，而是画出来的、刷出来的、贴出来的、喷出来的——一句话：就是“屎上雕花”糊弄出来的呀！&#xA;“屎上雕花”，美丽无比，臭不可闻。习近平亲自督阵，胡春华挂帅统兵，各级官员忙活抓狂，党媒喉舌极力吹嘘，口号喊的山响，成绩吹的天大的“扶贫攻坚”，天文数字的财政投入，但又有多少钱用在了刀刃上！人们看到的最多的就是道路两边刷白墙，村子里面却是隐入烟尘！大量的工作做了表面文章。乡村振兴，成了报表振兴，总结振兴，宣传振兴。难怪有网友对此评论道：“白墙一刷，小康到家。”</description>
-    </item>
-    <item>
-      <title>昨天的博客</title>
-      <link>http://localhost:1313/posts/2024-07-19-no9-%E6%98%A8%E5%A4%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-19-no9-%E6%98%A8%E5%A4%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>No8 博客</title>
-      <link>http://localhost:1313/posts/2024-07-17-no8-%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Wed, 17 Jul 2024 18:51:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-17-no8-%E5%8D%9A%E5%AE%A2/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;Cut out summary from your post content here.&#xA;The remaining content of your post.&#xA;科技爱好者周刊 记录每周值得分享的科技内容，周五发布。&#xA;欢迎投稿，推荐或自荐文章/软件/资源，请提交 issue 。&#xA;P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。&#xA;如何搜索 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。&#xA;1、使用 GitHub 自带的网页搜索。&#xA;2、使用 Sourcegraph.com 进行搜索。&#xA;3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。</description>
-    </item>
-    <item>
-      <title>昨天的博客</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>时间第二最早的博客</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description>个人介绍 个人网站：https://www.techxiaofei.com/&#xA;目前定居新加坡，科技互联网领域自媒体博主，在自媒体平台上分享最新的科技互联网相关软件、产品、使用教程。欢迎你的关注和支持。&#xA;粉丝群 欢迎加入【科技小飞哥】的 电报粉丝群，一起探讨分享科技互联网技术。&#xA;海外投资交流群</description>
-    </item>
-    <item>
-      <title>时间最早的博客</title>
-      <link>http://localhost:1313/posts/2024-07-14-%E6%97%B6%E9%97%B4%E6%9C%80%E6%97%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-14-%E6%97%B6%E9%97%B4%E6%9C%80%E6%97%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
-      <description>个人介绍 个人网站：https://www.techxiaofei.com/&#xA;目前定居新加坡，科技互联网领域自媒体博主，在自媒体平台上分享最新的科技互联网相关软件、产品、使用教程。欢迎你的关注和支持。&#xA;粉丝群 欢迎加入【科技小飞哥】的 电报粉丝群，一起探讨分享科技互联网技术。&#xA;海外投资交流群</description>
-    </item>
-    <item>
-      <title>这个系统很不错</title>
-      <link>http://localhost:1313/posts/2024-07-09-%E8%BF%99%E4%B8%AA%E7%B3%BB%E7%BB%9F%E5%BE%88%E4%B8%8D%E9%94%99/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-09-%E8%BF%99%E4%B8%AA%E7%B3%BB%E7%BB%9F%E5%BE%88%E4%B8%8D%E9%94%99/</guid>
-      <description>Hello There 👋 我是　Jarson Cai 一个写代码的，什么都搞。热衷开源项目。🤔 喜欢研究一些新鲜的事物，喜欢音乐🎶，运动.📖 目前在～～～(某双非大学读研究生——电子信息专业（计算机技术）🤪) 目前正在学习c++后台开发方向。 目前正在学习c++后台开发方向。</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
