@@ -6,15 +6,8 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2024 18:51:13 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:48:13 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>No8 博客</title>
-      <link>http://localhost:1313/posts/my-no8-post/</link>
-      <pubDate>Thu, 18 Jul 2024 18:51:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-no8-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;Cut out summary from your post content here.&#xA;The remaining content of your post.&#xA;科技爱好者周刊 记录每周值得分享的科技内容，周五发布。&#xA;欢迎投稿，推荐或自荐文章/软件/资源，请提交 issue 。&#xA;P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。&#xA;如何搜索 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。&#xA;1、使用 GitHub 自带的网页搜索。&#xA;2、使用 Sourcegraph.com 进行搜索。&#xA;3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。</description>
-    </item>
     <item>
       <title>No7 博客</title>
       <link>http://localhost:1313/posts/my-no7-post/</link>
@@ -37,11 +30,18 @@
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
     <item>
-      <title>No9 - 昨天的博客</title>
-      <link>http://localhost:1313/posts/my-no9-post/</link>
+      <title>昨天的博客</title>
+      <link>http://localhost:1313/posts/2024-07-19-no9-%E6%98%A8%E5%A4%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-no9-post/</guid>
+      <guid>http://localhost:1313/posts/2024-07-19-no9-%E6%98%A8%E5%A4%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>No8 博客</title>
+      <link>http://localhost:1313/posts/2024-07-17-no8-%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 17 Jul 2024 18:51:13 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-17-no8-%E5%8D%9A%E5%AE%A2/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;Cut out summary from your post content here.&#xA;The remaining content of your post.&#xA;科技爱好者周刊 记录每周值得分享的科技内容，周五发布。&#xA;欢迎投稿，推荐或自荐文章/软件/资源，请提交 issue 。&#xA;P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。&#xA;如何搜索 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。&#xA;1、使用 GitHub 自带的网页搜索。&#xA;2、使用 Sourcegraph.com 进行搜索。&#xA;3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。</description>
     </item>
     <item>
       <title>昨天的博客</title>
