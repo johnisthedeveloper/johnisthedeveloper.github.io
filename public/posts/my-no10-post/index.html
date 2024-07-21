@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en-us"
+<html lang="en"
   x-data
   :class="$store.darkMode.class()"
   :data-theme="$store.darkMode.theme()">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My No10 Post | My New Hugo Site</title>
+    <title>My No10 Post | Hugo Theme Dream</title>
 
     
 
@@ -26,7 +26,7 @@
 
 
 <meta property="og:url" content="http://localhost:1313/posts/my-no10-post/">
-  <meta property="og:site_name" content="My New Hugo Site">
+  <meta property="og:site_name" content="Hugo Theme Dream">
   <meta property="og:title" content="My No10 Post">
   <meta property="og:description" content="Cut out summary from your post content here.
 “屎上雕花”一词，最早是在电脑程序员之间口耳相传，形容面对屎山一样的代码，还要不停进行迭代式缝缝补补，当初颇有些自嘲的意味。
@@ -35,7 +35,7 @@
 烟尘随风散去，答案水落石出：这次甘肃积石山地震，震出了现实版的隐入烟尘！大片土坯房，砖瓦房成了重灾区。一张张图片经网络发酵迅速传遍全国。看到这场景全国人民都傻眼了，简直不敢相信自己的眼睛，这是真的吗？
 最让人气愤的，是那一面面毗邻道路的墙体，原来看上去光鲜靓丽，而开裂倒塌之后，里面全是一塌糊涂！我的天哪，所谓“建设美丽乡村”，其实不是建出来的，而是画出来的、刷出来的、贴出来的、喷出来的——一句话：就是“屎上雕花”糊弄出来的呀！
 “屎上雕花”，美丽无比，臭不可闻。习近平亲自督阵，胡春华挂帅统兵，各级官员忙活抓狂，党媒喉舌极力吹嘘，口号喊的山响，成绩吹的天大的“扶贫攻坚”，天文数字的财政投入，但又有多少钱用在了刀刃上！人们看到的最多的就是道路两边刷白墙，村子里面却是隐入烟尘！大量的工作做了表面文章。乡村振兴，成了报表振兴，总结振兴，宣传振兴。难怪有网友对此评论道：“白墙一刷，小康到家。”">
-  <meta property="og:locale" content="en_us">
+  <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2024-07-19T05:29:58-04:00">
@@ -95,10 +95,19 @@
     <section class="flex items-center gap-4">
       <div class="avatar cursor-pointer hover:online" @click="flip = !flip" title="Flip it!">
         <div class="h-10 rounded-full">
-          <img src="/" alt="" />
+          <img src="/" alt="Hugo Theme Dream" />
         </div>
       </div>
 
+      
+      <div>
+        
+        <a href="http://localhost:1313/" class="text-lg font-semibold cursor-pointer">
+          Hugo Theme Dream
+        </a>
+        
+        
+      </div>
       
     </section>
 
@@ -258,7 +267,9 @@
             <footer class="flex justify-between items-center gap-2 px-4 py-12">
               <div>
   
-  <p>© 2024 My New Hugo Site</p>
+  <p>
+    © 2016 - 2024 Hugo Theme Dream
+  </p>
   
 
   
@@ -318,8 +329,8 @@
     </div>
 
     <script>
-  window.lightTheme =  null 
-  window.darkTheme =  null 
+  window.lightTheme = "emerald"
+  window.darkTheme = "forest"
 
   window.hasTwitterEmbed =  null 
   if (window.hasTwitterEmbed) {

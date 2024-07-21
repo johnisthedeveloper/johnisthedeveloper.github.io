@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Hugo Theme Dream</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Hugo Theme Dream</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 19 Jul 2024 05:29:58 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -44,13 +44,6 @@
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
     <item>
-      <title>No8 博客</title>
-      <link>http://localhost:1313/posts/2024-07-17-no8-%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Wed, 17 Jul 2024 18:51:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-17-no8-%E5%8D%9A%E5%AE%A2/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;Cut out summary from your post content here.&#xA;The remaining content of your post.&#xA;科技爱好者周刊 记录每周值得分享的科技内容，周五发布。&#xA;欢迎投稿，推荐或自荐文章/软件/资源，请提交 issue 。&#xA;P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。&#xA;如何搜索 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。&#xA;1、使用 GitHub 自带的网页搜索。&#xA;2、使用 Sourcegraph.com 进行搜索。&#xA;3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。</description>
-    </item>
-    <item>
       <title>昨天的博客</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
@@ -63,20 +56,6 @@
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-third-post/</guid>
       <description>个人介绍 个人网站：https://www.techxiaofei.com/&#xA;目前定居新加坡，科技互联网领域自媒体博主，在自媒体平台上分享最新的科技互联网相关软件、产品、使用教程。欢迎你的关注和支持。&#xA;粉丝群 欢迎加入【科技小飞哥】的 电报粉丝群，一起探讨分享科技互联网技术。&#xA;海外投资交流群</description>
-    </item>
-    <item>
-      <title>时间最早的博客</title>
-      <link>http://localhost:1313/posts/2024-07-14-%E6%97%B6%E9%97%B4%E6%9C%80%E6%97%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-14-%E6%97%B6%E9%97%B4%E6%9C%80%E6%97%A9%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
-      <description>个人介绍 个人网站：https://www.techxiaofei.com/&#xA;目前定居新加坡，科技互联网领域自媒体博主，在自媒体平台上分享最新的科技互联网相关软件、产品、使用教程。欢迎你的关注和支持。&#xA;粉丝群 欢迎加入【科技小飞哥】的 电报粉丝群，一起探讨分享科技互联网技术。&#xA;海外投资交流群</description>
-    </item>
-    <item>
-      <title>这个系统很不错</title>
-      <link>http://localhost:1313/posts/2024-07-09-%E8%BF%99%E4%B8%AA%E7%B3%BB%E7%BB%9F%E5%BE%88%E4%B8%8D%E9%94%99/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-07-09-%E8%BF%99%E4%B8%AA%E7%B3%BB%E7%BB%9F%E5%BE%88%E4%B8%8D%E9%94%99/</guid>
-      <description>Hello There 👋 我是　Jarson Cai 一个写代码的，什么都搞。热衷开源项目。🤔 喜欢研究一些新鲜的事物，喜欢音乐🎶，运动.📖 目前在～～～(某双非大学读研究生——电子信息专业（计算机技术）🤪) 目前正在学习c++后台开发方向。 目前正在学习c++后台开发方向。</description>
     </item>
   </channel>
 </rss>
